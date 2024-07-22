@@ -1,0 +1,19 @@
+a {
+  text-align: center;
+}
+@media only screen (max-width: 100%) {
+  body {
+  bodybackground-color: blue;
+  }
+}
+input {
+  display: flex;
+  
+}
+#nav-bar {
+  position: fixed;
+}
+
+header {
+  position: fixed;
+}
